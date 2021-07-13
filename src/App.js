@@ -1,6 +1,6 @@
 import './App.css';
 import Tabs from './components/Tabs'
-import Contents from './components/Contents'
+
 
 function App() {
 
